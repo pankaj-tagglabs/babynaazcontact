@@ -12,7 +12,7 @@ module.exports = {
   shortBaseUrl: "www.hariomseth.com", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Hariom Seth",
+  name: "Hariom",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
