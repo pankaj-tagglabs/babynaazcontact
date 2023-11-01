@@ -50,13 +50,6 @@ module.exports = {
   //     colors.
   links: [
     {
-      name: "Clazia Events",
-      desc: "claziaevents.com",
-      url: "http://www.claziaevents.com/",
-      fa: "fas fa-globe-americas",
-      textColor: "text-website",
-    },
-    {
       name: "Oस Organic",
       desc: "osorganic.com",
       url: "https://osorganic.com/",
