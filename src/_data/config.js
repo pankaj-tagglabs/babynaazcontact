@@ -1,7 +1,7 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Hariom Seth",
+  title: "Manisha Singh",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
@@ -21,7 +21,7 @@ module.exports = {
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
