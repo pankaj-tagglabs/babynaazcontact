@@ -5,7 +5,7 @@ module.exports = {
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Hariom Seth",
+  description: "Contact information for Manisha Singh",
 
   // Site URLs.
   baseUrl: "https://osorganic.com/", // No slash at the end.
@@ -16,8 +16,8 @@ module.exports = {
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha1.jpg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha1.jpg",
   },
 
   // Name pronunciation. Set to null to leave out.
@@ -31,13 +31,13 @@ module.exports = {
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha1.jpg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha1.jpg",
   },
 
   // Links to your other websites.
@@ -51,29 +51,22 @@ module.exports = {
   links: [
     {
       name: "Website",
-      desc: "hariomseth.com",
-      url: "https://www.hariomseth.com",
+      desc: "claziaevents.com",
+      url: "http://www.claziaevents.com/",
       fa: "fas fa-globe-americas",
       textColor: "text-website",
     },
     {
       name: "Email",
-      desc: "hari@tagglabs.in",
-      url: "mailto:hari@tagglabs.in",
+      desc: "info@clazia.com",
+      url: "mailto:info@clazia.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
-      name: "Twitter",
-      desc: "@HariomSeth",
-      url: "https://twitter.com/HariomSeth",
-      fa: "fab fa-twitter",
-      textColor: "text-twitter",
-    },
-    {
       name: "LinkedIn",
-      desc: "@shariom",
-      url: "https://www.linkedin.com/in/shariom/",
+      desc: "@manisha-singh",
+      url: "https://www.linkedin.com/in/manisha-singh-81a7327b/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
