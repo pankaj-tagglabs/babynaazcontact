@@ -79,7 +79,7 @@ module.exports = {
     },
     {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
