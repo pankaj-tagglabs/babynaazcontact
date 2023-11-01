@@ -8,16 +8,16 @@ module.exports = {
   description: "Contact information for Hariom Seth",
 
   // Site URLs.
-  baseUrl: "https://www.hariomseth.com", // No slash at the end.
-  shortBaseUrl: "www.hariomseth.com", // Same as baseUrl but without http or https.
+  baseUrl: "https://osorganic.com/", // No slash at the end.
+  shortBaseUrl: "osorganic.com/", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Hariom",
+  name: "Manisha Singh",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
   },
 
   // Name pronunciation. Set to null to leave out.
@@ -25,19 +25,19 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Founder & Chief Creative Technologist at Tagglabs",
+  tagline: "Founder at Clazia Events | Os Organic",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/hariomseth/Hariomseth.jpg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/manisha/manisha.jpg",
   },
 
   // Links to your other websites.
@@ -79,8 +79,8 @@ module.exports = {
     },
      {
       name: "Instagram",
-      desc: "@harioms",
-      url: "https://www.instagram.com/harioms/",
+      desc: "@agirlfulloflife",
+      url: "https://www.instagram.com/agirlfulloflife/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
