@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Founder at Clazia Events | Os Organic",
+  tagline: "Founder at Clazia Events | Oस Organic",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -72,8 +72,15 @@ module.exports = {
     },
      {
       name: "Instagram",
-      desc: "@agirlfulloflife",
-      url: "https://www.instagram.com/agirlfulloflife/",
+      desc: "@claziaevents",
+      url: "https://www.instagram.com/claziaevents/",
+      fa: "fab fa-instagram",
+      textColor: "text-instagram",
+    },
+    {
+      name: "Instagram",
+      desc: "@osaorganicskincare",
+      url: "https://www.instagram.com/osaorganicskincare/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
