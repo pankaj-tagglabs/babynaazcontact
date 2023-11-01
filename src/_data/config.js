@@ -58,8 +58,8 @@ module.exports = {
     },
     {
       name: "Email",
-      desc: "info@clazia.com",
-      url: "mailto:info@clazia.com",
+      desc: "info@claziaevents.com",
+      url: "mailto:info@claziaevents.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
