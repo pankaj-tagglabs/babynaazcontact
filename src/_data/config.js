@@ -71,11 +71,10 @@ module.exports = {
       textColor: "text-linkedin",
     },
      {
-      name: "Instagram",
-      desc: "@claziaevents",
-      url: "https://www.instagram.com/claziaevents/",
-      fa: "fab fa-instagram",
-      textColor: "text-instagram",
+      name: "Resume",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/Babynaaz/Babynaaz_CV_as_on_12-01-2023.pdf",
+      fa: "fas fa-file-alt",
+      textColor: "text-white-500",
     },
     {
       name: "Save Contact",
