@@ -72,7 +72,7 @@ module.exports = {
     },
      {
       name: "Resume",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/Babynaaz/Babynaaz_CV_as_on_12-01-2023.pdf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/Babynaaz/QBN%20Resume_2.pdf",
       fa: "fas fa-file-alt",
       textColor: "text-white-500",
     },
